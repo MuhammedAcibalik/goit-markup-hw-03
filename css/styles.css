@@ -57,10 +57,6 @@ img {
   gap: 40px;
 }
 
-.nav-list li:first-child {
-  padding: 24px 0;
-}
-
 .nav-item {
   padding: 24px 0;
 }
@@ -73,10 +69,6 @@ img {
 .address-list {
   display: flex;
   gap: 40px;
-}
-
-.address-list li:first-child {
-  padding: 24px 0;
 }
 
 /* Images */
@@ -125,6 +117,10 @@ img {
 .features-list {
   display: flex;
   gap: 24px;
+}
+
+.features-list li:first-child {
+  padding: 24px 0;
 }
 
 .features-item {
