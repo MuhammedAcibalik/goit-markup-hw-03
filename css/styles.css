@@ -57,6 +57,10 @@ img {
   gap: 40px;
 }
 
+.nav-list li:first-child {
+  padding: 24px 0;
+}
+
 .nav-item {
   padding: 24px 0;
 }
@@ -69,6 +73,12 @@ img {
 .address-list {
   display: flex;
   gap: 40px;
+}
+
+/* Images */
+.team-image,
+.portfolio-image {
+  display: block;
 }
 
 /* Hero section */
