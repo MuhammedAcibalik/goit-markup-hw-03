@@ -119,7 +119,7 @@ img {
   gap: 24px;
 }
 
-.features-list li:first-child {
+.features-item:first-child {
   padding: 24px 0;
 }
 
