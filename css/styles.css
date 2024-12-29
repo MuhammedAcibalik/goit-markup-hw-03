@@ -75,6 +75,10 @@ img {
   gap: 40px;
 }
 
+.address-list li:first-child {
+  padding: 24px 0;
+}
+
 /* Images */
 .team-image,
 .portfolio-image {
