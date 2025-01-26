@@ -63,6 +63,10 @@ img {
   gap: 40px;
 }
 
+.nav-list li:first-child {
+  padding: 24px 0;
+}
+
 .nav-item {
   padding: 24px 0;
 }
@@ -123,10 +127,6 @@ img {
 .features-list {
   display: flex;
   gap: 24px;
-}
-
-.features-item:first-child {
-  padding: 24px 0;
 }
 
 .features-item {
